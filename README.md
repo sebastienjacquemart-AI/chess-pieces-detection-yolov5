@@ -1,7 +1,7 @@
 Trial: Detect chess pieces on video using the yolov5-model.
-Result: As expected, the model doesn't perform that well...
+Result: As expected, the model doesn't perform that well... Maybe try with other angles?
 
-![screenshot](screenshot.png)
+![Predictions](chess.png)
 
 # How to configure environment?
 
