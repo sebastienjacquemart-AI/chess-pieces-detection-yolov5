@@ -3,6 +3,10 @@ Result: As expected, the model doesn't perform that well... Maybe try with other
 
 ![Predictions](chess.png)
 
+# Dataset used
+
+https://public.roboflow.com/object-detection/chess-full/24
+
 # How to configure environment?
 
 Install the dependencies:
