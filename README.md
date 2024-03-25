@@ -1,7 +1,4 @@
-Trial: Detect chess pieces on video using the yolov5-model.
-Result: As expected, the model doesn't perform that well... Maybe try with other angles?
-
-![Predictions](chess.png)
+TODO: test the model with different angles
 
 # Dataset used
 
@@ -25,3 +22,9 @@ Train the model on images with image size 416, batch size 8 and epochs 400:
 
 Predict on images with image size 640:
 !python detect.py --source dataset/predict/chess.mp4  --weights runs/train/exp2/weights/last.pt --img 640 --save-txt --save-conf
+
+# Result 1
+
+![Predictions](chess.png)
+
+As expected, the model doesn't perform that well... Maybe try with other angles?
