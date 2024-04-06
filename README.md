@@ -31,5 +31,5 @@ As expected, the model doesn't perform that well... Maybe try with other angles?
 
 ![Predictions](chess_exp5.png)
 
-The model performs way better, but still make a lot of mistakes. This needs to be better.
+The model performs way better, but still make a lot of mistakes. This needs to be better. Yolov9??
 
