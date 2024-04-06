@@ -21,7 +21,7 @@ Train the model on images with image size 416, batch size 8 and epochs 400:
 # How to predict using the model?
 
 Predict on images with image size 640:
-!python detect.py --source dataset/predict/chess.mp4  --weights runs/train/exp2/weights/last.pt --img 640 --save-txt --save-conf
+!python detect.py --source data/dataset/predict/chess.mp4  --weights runs/train/exp2/weights/last.pt --img 640 --save-txt --save-conf
 
 # Result 1
 
