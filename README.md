@@ -25,6 +25,11 @@ Predict on images with image size 640:
 
 # Result 1
 
-![Predictions](chess.png)
+![Predictions](chess_exp3.png)
 
 As expected, the model doesn't perform that well... Maybe try with other angles?
+
+![Predictions](chess_exp5.png)
+
+The model performs way better, but still make a lot of mistakes. This needs to be better.
+
