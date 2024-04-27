@@ -1,4 +1,4 @@
-TODO: Yolov9??
+TODO: Yolov9?? Add some theory about yolo-network
 
 # Dataset used
 
